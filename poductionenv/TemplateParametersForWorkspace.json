@@ -16,6 +16,9 @@
 		},
 		"testingenvfabic-WorkspaceDefaultStorage_properties_typeProperties_url": {
 			"value": "https://adlstestingasindu.dfs.core.windows.net"
-		}
+		},
+		"bigDataPoolName": {
+	      "value": "newpool"
+	    },
 	}
 }
